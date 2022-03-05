@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\obj\Debug\modull2_1302201133.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\obj\Debug\modull2_1302201133.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\obj\Debug\modull2_1302201133.Form1.resources
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\obj\Debug\modull2_1302201133.Properties.Resources.resources
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\obj\Debug\modull2_1302201133.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\obj\Debug\modull2_1302201133.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\bin\Debug\modull2_1302201133.exe.config
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\bin\Debug\modull2_1302201133.exe
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\bin\Debug\modull2_1302201133.pdb
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\obj\Debug\modull2_1302201133.exe
+C:\Users\pc\source\repos\modull2_1302201133\modull2_1302201133\obj\Debug\modull2_1302201133.pdb
